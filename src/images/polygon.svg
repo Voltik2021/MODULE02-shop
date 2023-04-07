@@ -1,3 +1,7 @@
-<svg width="220" height="140">
-  <polygon points="0,140 110,0 220,140"></polygon>
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="40px" height="40px">
+<path fill-rule="evenodd"  fill="rgb(210, 106, 34)"
+ d="M19.1000,-0.000 C31.046,-0.000 40.000,8.954 40.000,20.000 C40.000,31.046 31.046,40.000 19.1000,40.000 C8.954,40.000 0.000,31.046 0.000,20.000 C0.000,8.954 8.954,-0.000 19.1000,-0.000 Z"/>
 </svg>

@@ -23,7 +23,7 @@ module.exports = ({ dev }) => ({
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: "./src/index.html",
+      template: "./index.html",
     }),
     new MiniCssExtractPlagin({
       filename: "./styles/main.css",
